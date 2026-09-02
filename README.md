@@ -104,7 +104,7 @@ Slicers were also used to allow the dashboard analysis to be filtered interactiv
 ## Project Structure
 
 pharma-sales-analysis-dashboard/
+│
 ├── Pharma_Sales_Analysis_Dashboard.csv.xlsx
 ├── README.md
-└── screenshots/
-    └── dashboard.png
+└── dashboard.png
